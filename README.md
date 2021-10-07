@@ -1,4 +1,4 @@
-[Devtools HW
+Devtools HW
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
@@ -51,5 +51,6 @@
  49. Найти интерфейс для изменения/добавления параметров Throttling.
  50. Создать свои параметры плохого соединения и проверить как будет загружаться страница.
  51. Найти интерфейс для изменения/добавления параметров Locations.
- 52. Проверить на Google карте как применяются изменения локации.]
- (https://drive.google.com/file/d/18vfq7GvbkP5btxVL2j5_X5IfYePFSRI9/view?usp=sharing)
+ 52. Проверить на Google карте как применяются изменения локации.
+ 
+ [https://drive.google.com/file/d/18vfq7GvbkP5btxVL2j5_X5IfYePFSRI9/view?usp=sharing]
